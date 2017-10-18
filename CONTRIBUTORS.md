@@ -799,3 +799,8 @@
 - Bio: Web developer, Calligrapher, Musician, Entrepreneur
 - GitHub: [Ryan Smith](https://github.com/hanapotski)
 - Website: [Blog](https://homemadecoder.wordpress.com)
+
+#### Name: [Ariel Blasi](litesoul.github.io)
+- Place: Santa Fe, Argentina
+- Bio: Developer with interest in light and fast apps
+- GitHub: [LiteSoul](https://github.com/LiteSoul)
